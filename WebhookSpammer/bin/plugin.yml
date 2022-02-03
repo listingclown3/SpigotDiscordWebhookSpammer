@@ -1,0 +1,8 @@
+name: WebhookSpammer
+version: 1.0
+main: me.list3.webhookspammer.Main
+api-version: 1.8
+
+commands: 
+  whe:
+  whs: 
